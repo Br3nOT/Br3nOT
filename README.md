@@ -1,13 +1,13 @@
-## Hi there 👋
+## <span style="color:blue">Hi there 👋</span>
 
-# About me
+
+# <span style="color:blue">About me</span>
 
 🌱 Engenheiro Ambiental de formação, apaixonado por tecnologia desde sempre! Minha jornada no mundo da Engenharia me ensinou a planejar, gerir e executar projetos, mas foi minha afinidade com a computação que me levou a uma nova aventura.
 
-🌍 Environmental Engineer by degree, always passionate about technology! My journey in Engineering taught me how to plan, manage, and execute projects, but it was my affinity for computing that led me to a new adventure.
-
-
 👨‍💻 Atualmente, estou mergulhando no desenvolvimento Back-End pelo programa Santander Coders 2024.1 na Ada Tech. Aprender a programar é como desvendar um novo ecossistema, onde cada linha de código é uma peça essencial para criar algo maior e mais sustentável.
+
+🌍 Environmental Engineer by degree, always passionate about technology! My journey in Engineering taught me how to plan, manage, and execute projects, but it was my affinity for computing that led me to a new adventure.
 
 🌍 I’m currently diving into Back-End development through the Santander Coders 2024.1 program at Ada Tech. Learning to code feels like uncovering a new ecosystem, where every line of code is an essential piece in building something greater and more sustainable.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Breno Torquato
+# <span style="color:blue">Breno Torquato</span>
 
 
 
