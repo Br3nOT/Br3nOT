@@ -9,7 +9,7 @@
 
 👨‍💻 Atualmente, estou mergulhando no desenvolvimento Back-End pelo programa Santander Coders 2024.1 na Ada Tech. Aprender a programar é como desvendar um novo ecossistema, onde cada linha de código é uma peça essencial para criar algo maior e mais sustentável.
 
-👨‍💻 I’m currently diving into Back-End development through the Santander Coders 2024.1 program at Ada Tech. Learning to code feels like uncovering a new ecosystem, where every line of code is an essential piece in building something greater and more sustainable.
+🌍 I’m currently diving into Back-End development through the Santander Coders 2024.1 program at Ada Tech. Learning to code feels like uncovering a new ecosystem, where every line of code is an essential piece in building something greater and more sustainable.
 
 <!--
 **Br3nOT/Br3nOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
