@@ -1,7 +1,7 @@
-## <span style="color:blue">Hi there 👋</span>
+## Hi there 🚀
 
 
-# <span style="color:blue">About me</span>
+# About me
 
 🌱 Engenheiro Ambiental de formação, apaixonado por tecnologia desde sempre! Minha jornada no mundo da Engenharia me ensinou a planejar, gerir e executar projetos, mas foi minha afinidade com a computação que me levou a uma nova aventura.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 
-# <span style="color:blue">Breno Torquato</span>
+# Breno Torquato
 
 
 
