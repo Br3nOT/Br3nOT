@@ -3,13 +3,21 @@
 
 # About me
 
-🌍 Environmental Engineer by degree, always passionate about technology! My journey in Engineering taught me how to plan, manage, and execute projects, but it was my affinity for computing that led me to a new adventure.
+🌱 My first degree was in Environmental Engineering, but I’ve always had a passion for technology. My background in Engineering taught me how to plan, organize, and execute projects, but it was my interest in computing that led me to pursue new challenges.
 
-🌍 I’m currently diving into Back-End development through the Santander Coders 2024.1 program at Ada Tech. Learning to code feels like uncovering a new ecosystem, where every line of code is an essential piece in building something greater and more sustainable.
+🌍 I’m currently studying Computer Science. I’m excited about this new chapter, as it will help me deepen my understanding of how technology can be used to create more sustainable and innovative solutions.
 
-🌱 Engenheiro Ambiental de formação, apaixonado por tecnologia desde sempre! Minha jornada no mundo da Engenharia me ensinou a planejar, gerir e executar projetos, mas foi minha afinidade com a computação que me levou a uma nova aventura.
+👨‍💻 Alongside my degree, I’m also focusing on Back-End development through the Santander Coders 2024.1 program at Ada Tech. For me, learning to code is like exploring a new universe, where every line of code has the potential to create something bigger and better.
 
-👨‍💻 Atualmente, estou mergulhando no desenvolvimento Back-End pelo programa Santander Coders 2024.1 na Ada Tech. Aprender a programar é como desvendar um novo ecossistema, onde cada linha de código é uma peça essencial para criar algo maior e mais sustentável.
+
+
+🌱 Minha primeira graduação foi em Engenharia Ambiental, mas sempre tive interesse por tecnologia. A experiência na Engenharia me ensinou a planejar, organizar e executar projetos, mas foi o meu interesse pela computação que me levou a buscar novos desafios.
+
+🌍  Atualmente estou na graduação de Ciência da Computação. Estou animado com essa nova fase, que vai me ajudar a entender ainda mais o papel da tecnologia na criação de soluções mais sustentáveis e inovadoras.
+
+👨‍💻 Em conjunto com a graduação, estou me dedicando ao desenvolvimento Back-End no programa Santander Coders 2024.1 da Ada Tech. Para mim, aprender a programar é como explorar um novo universo, onde cada linha de código tem o potencial de criar algo maior e melhor.
+
+
 
 <!--
 **Br3nOT/Br3nOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
